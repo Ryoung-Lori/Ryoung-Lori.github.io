@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Anchoret
+title: 少年
 subtitle: Choose You Own Path
 description: 逢君一笑，人间无此欢喜
 author: 诗翔
@@ -120,8 +120,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
-  commonweal: /404.html
+
 
 
 # Enable/Disable menu icons.
